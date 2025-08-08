@@ -170,6 +170,4 @@ Agents should communicate when queries span both domains.
 
 ---
 
-## ⚙️ Implementation Guidelines
 
-### Backend API Structure
